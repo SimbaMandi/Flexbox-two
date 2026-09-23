@@ -1,0 +1,29 @@
+.cards {
+  display: flex;
+  flex-direction: column;
+  flex: 1;           
+  gap: 10px;            
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+.title-1 {
+    font-family: Calibri, sans-serif;
+    background: #f24444;;
+    margin: 0;
+    padding: 20px;
+}
+
+.title-2 {
+    font-family: Calibri, sans-serif;
+    background: #17dced;;
+    margin: 0;
+    padding: 20px;
+}
+
+.title-3 {
+    font-family: Calibri, sans-serif;
+    background: rgb(192, 234, 26);;
+    margin: 0;
+    padding: 20px;
+}
